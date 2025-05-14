@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
 
         enableEdgeToEdge()
         setContent {
-            EstruturaBasicaTheme {
+            EstruturaBasicaTheme{
                 // Surface container é usado para aplicar o tema ao conteúdo
                 Surface(
                     modifier = Modifier.fillMaxSize(),
