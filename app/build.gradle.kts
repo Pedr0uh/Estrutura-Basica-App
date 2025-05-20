@@ -60,5 +60,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     // navigation
     implementation(libs.androidx.navigation.runtime.android)
+    implementation(libs.androidx.navigation.compose.v260)
 
 }
